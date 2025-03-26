@@ -6,15 +6,15 @@
     margin: 0;
     padding: 0;
     position: relative;
-    text-align: center; /* Centers the navigation items */
+    text-align: center; 
 }
 
 #main-navbar ul {
     list-style-type: none;
     padding: 0;
     margin: 0;
-    display: flex; /* Flexbox for centering the items */
-    justify-content: center; /* Centers navigation links */
+    display: flex; 
+    justify-content: center; 
 }
 
 #main-navbar li {
